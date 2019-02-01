@@ -1,0 +1,18 @@
+c:\users\anura\documents\visual studio 2015\Projects\sClaim Automation\sClaim Automation\bin\Debug\sClaim Automation.dll.config
+c:\users\anura\documents\visual studio 2015\Projects\sClaim Automation\sClaim Automation\bin\Debug\sClaim Automation.dll
+c:\users\anura\documents\visual studio 2015\Projects\sClaim Automation\sClaim Automation\bin\Debug\sClaim Automation.pdb
+c:\users\anura\documents\visual studio 2015\Projects\sClaim Automation\sClaim Automation\bin\Debug\RightNow.AddIns.AddInViews.dll
+c:\users\anura\documents\visual studio 2015\Projects\sClaim Automation\sClaim Automation\bin\Debug\RightNow.AddIns.AddInViews.xml
+c:\users\anura\documents\visual studio 2015\Projects\sClaim Automation\sClaim Automation\obj\Debug\sClaim_Automation.Properties.Resources.resources
+c:\users\anura\documents\visual studio 2015\Projects\sClaim Automation\sClaim Automation\obj\Debug\sClaim Automation.csproj.GenerateResource.Cache
+c:\users\anura\documents\visual studio 2015\Projects\sClaim Automation\sClaim Automation\obj\Debug\sClaim Automation.dll
+c:\users\anura\documents\visual studio 2015\Projects\sClaim Automation\sClaim Automation\obj\Debug\sClaim Automation.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\bin\Debug\sClaim Automation.dll.config
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\bin\Debug\sClaim Automation.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\bin\Debug\sClaim Automation.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\bin\Debug\RightNow.AddIns.AddInViews.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\bin\Debug\RightNow.AddIns.AddInViews.xml
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\obj\Debug\sClaim_Automation.Properties.Resources.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\obj\Debug\sClaim Automation.csproj.GenerateResource.Cache
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\obj\Debug\sClaim Automation.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\obj\Debug\sClaim Automation.pdb

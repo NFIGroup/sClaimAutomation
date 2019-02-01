@@ -1,0 +1,38 @@
+C:\Users\anura\Documents\Visual Studio 2015\Projects\sClaim Automation\sClaim Automation\obj\Release\sClaim_Automation.Properties.Resources.resources
+C:\Users\anura\Documents\Visual Studio 2015\Projects\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.csproj.GenerateResource.Cache
+C:\Users\anura\Documents\Visual Studio 2015\Projects\sClaim Automation\sClaim Automation\bin\Release\sClaim Automation.dll.config
+C:\Users\anura\Documents\Visual Studio 2015\Projects\sClaim Automation\sClaim Automation\bin\Release\sClaim Automation.dll
+C:\Users\anura\Documents\Visual Studio 2015\Projects\sClaim Automation\sClaim Automation\bin\Release\sClaim Automation.pdb
+C:\Users\anura\Documents\Visual Studio 2015\Projects\sClaim Automation\sClaim Automation\bin\Release\RightNow.AddIns.AddInViews.dll
+C:\Users\anura\Documents\Visual Studio 2015\Projects\sClaim Automation\sClaim Automation\bin\Release\RightNow.AddIns.AddInViews.xml
+C:\Users\anura\Documents\Visual Studio 2015\Projects\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.dll
+C:\Users\anura\Documents\Visual Studio 2015\Projects\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.pdb
+C:\Users\anura\Documents\Visual Studio 2015\Projects\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.csprojResolveAssemblyReference.cache
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\bin\Release\sClaim Automation.dll.config
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\bin\Release\sClaim Automation.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\bin\Release\sClaim Automation.pdb
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\bin\Release\RightNow.AddIns.AddInViews.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\bin\Release\RightNow.AddIns.AddInViews.xml
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\obj\Release\sClaim_Automation.Properties.Resources.resources
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.csproj.GenerateResource.Cache
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.dll
+C:\Users\anura\Documents\amberleaf-newflyer\AddIns\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.pdb
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\sClaim Automation\sClaim Automation\bin\Release\sClaim Automation.dll.config
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\sClaim Automation\sClaim Automation\bin\Release\sClaim Automation.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\sClaim Automation\sClaim Automation\bin\Release\sClaim Automation.pdb
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\sClaim Automation\sClaim Automation\bin\Release\RightNow.AddIns.AddInViews.xml
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.csprojResolveAssemblyReference.cache
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\sClaim Automation\sClaim Automation\obj\Release\sClaim_Automation.Properties.Resources.resources
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.csproj.GenerateResource.Cache
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.dll
+D:\Personal\MyWorkingCodes\Amberleaf\Newflyer\2nd March\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.pdb
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\sClaim Automation\sClaim Automation\bin\Release\sClaim Automation.dll.config
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\sClaim Automation\sClaim Automation\bin\Release\sClaim Automation.dll
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\sClaim Automation\sClaim Automation\bin\Release\sClaim Automation.pdb
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\sClaim Automation\sClaim Automation\bin\Release\RightNow.AddIns.AddInViews.dll
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\sClaim Automation\sClaim Automation\bin\Release\RightNow.AddIns.AddInViews.xml
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.csprojResolveAssemblyReference.cache
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\sClaim Automation\sClaim Automation\obj\Release\sClaim_Automation.Properties.Resources.resources
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.csproj.GenerateResource.Cache
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.dll
+C:\Users\dgraveli\Documents\Visual Studio 2010\Projects\sClaim Automation\sClaim Automation\obj\Release\sClaim Automation.pdb
